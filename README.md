@@ -36,3 +36,7 @@ Replace YOUR_USERNAME, REPO_NAME, BRANCH_NAME, and DESCRIPTION OF CHANGES with a
 
 # Code of Conduct
 do whatever you want
+
+
+# License Explanation
+We selected the Unlicense for our group project to grant users complete freedom and flexibility. It eliminates all copyright and licensing restrictions, promoting collaboration and widespread adoption.
